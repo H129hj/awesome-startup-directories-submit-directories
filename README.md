@@ -6,7 +6,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![Directories](https://img.shields.io/badge/directories-199-orange.svg)](#contents)
+[![Directories](https://img.shields.io/badge/directories-200-orange.svg)](#contents)
 [![Last verified](https://img.shields.io/badge/links%20verified-Oct%202026-blue.svg)](#how-this-list-is-maintained)
 
 </div>
@@ -205,6 +205,7 @@ If you're building with AI, these directories have huge search traffic.
 | [Rank my AI](https://www.rankmyai.com) | Independent ranking of 75,000+ AI tools. | Free* | DR 36, nofollow (per SubmitSaaS, Oct 2026). |
 | [Dynamite AI](https://www.dynamite-ai.com) | AI tools directory. | Free* | DR 32, dofollow (per SubmitSaaS, Oct 2026). |
 | [AIDirs](https://aidirs.org) | Curated AI tools directory to discover, compare, and submit AI products. | Freemium | Free listing requires a backlink; Pro from £9.9 one-time skips it. |
+| [NovaTools](https://novatools.ai) | AI tool directory covering AI, creative and utility software by category. | Paid | DR 48 (per SubmitSaaS, Nov 2026), dofollow. Free submissions currently closed; paid listing $19.9 one-time, reviewed in 24-48 hours. |
 
 ## Communities & Forums
 
