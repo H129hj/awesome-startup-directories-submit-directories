@@ -6,7 +6,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![Directories](https://img.shields.io/badge/directories-198-orange.svg)](#contents)
+[![Directories](https://img.shields.io/badge/directories-199-orange.svg)](#contents)
 [![Last verified](https://img.shields.io/badge/links%20verified-Oct%202026-blue.svg)](#how-this-list-is-maintained)
 
 </div>
@@ -103,7 +103,7 @@ Daily/weekly launch boards where products compete for upvotes and homepage expos
 | [Stellar Launch](https://www.stellarlaunch.org) | Startup launch and promotion platform. | Free* | DR 32, dofollow (per SubmitSaaS, Oct 2026). |
 | [IndieStore](https://indiestore.co) | Indie product directory with weekly launches. | Free* | DR 30, nofollow (per SubmitSaaS, Oct 2026). |
 | [FastLaunch](https://fastlaunch.io) | Daily product launch platform with scheduled launches and community rankings. | Freemium | Free scheduled launches; paid priority scheduling. Site states free dofollow links are limited to the daily top three. |
-| [LaunchitX](https://launchitx.com) | Platform for makers and indie hackers to launch and discover products. | Freemium | Free launch; Premium $9.9 / Premium Plus $29.9 one-time; dofollow backlinks for premium launches. |
+| [LaunchitX](https://launchitx.com) | Platform for makers and indie hackers to launch and discover products. | Freemium | Free launch; Premium $9.9 / Premium Plus $29.9 one-time. Pricing page does not state whether links are dofollow. |
 
 ## General Startup Directories
 
